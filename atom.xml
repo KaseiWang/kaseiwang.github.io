@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Kasei.IM</title>
   <id>https://kasei.im</id>
-  <updated>2017-03-14T21:59:38+08:00</updated>
+  <updated>2017-03-15T18:34:22+08:00</updated>
   <link href="https://kasei.im"></link>
   <author>
     <name>Kasei.IM</name>
   </author>
   <entry>
     <title>利用 Snapper 实现 btrfs 自动定时备份</title>
-    <updated>2017-03-14T20:00:00+08:00</updated>
-    <id>tag:kasei.im,2017-03-14:/2017/03/use-snapper-for-btrfs-snapshot-and-backup.html</id>
+    <updated>2017-03-15T18:00:00+08:00</updated>
+    <id>tag:kasei.im,2017-03-15:/2017/03/use-snapper-for-btrfs-snapshot-and-backup.html</id>
     <content type="html">&lt;p&gt;snapper 是一个由 openSUSE 开发的 Btrfs/LVM 快照管理软件。它可以自动创建和清理快照序列，在快照之间进行比较，回滚到之前的快照等，能够帮助我们充分利用 btrfs 的高级特性。&lt;/p&gt;&#xA;</content>
     <link href="https://kasei.im/2017/03/use-snapper-for-btrfs-snapshot-and-backup.html"></link>
     <author>
